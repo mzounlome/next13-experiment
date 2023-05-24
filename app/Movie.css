@@ -1,0 +1,12 @@
+.movie-grid {
+  grid-template-columns: 1fr 1fr 1fr;
+  background-color: blue;
+  width: 100%;
+}
+
+.grid {
+  background-color: red;
+  width: 300px;
+  height: 325px;
+  margin-bottom: 20px;
+}
